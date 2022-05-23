@@ -1,6 +1,6 @@
 # Лабораторная работа №3 (редактура)
 
-[!картинка](https://sun1-30.userapi.com/s/v1/ig2/UA8hi-AFG-3Btnig9yI4uq-EI9y8uitoNzYeNzNoaEw8b462EgQO8sT4wNErSb7E3IJOX14GKbtJKFewh3lkelsI.jpg?size=532x425&quality=96&type=album)
+![картинка](https://sun1-30.userapi.com/s/v1/ig2/UA8hi-AFG-3Btnig9yI4uq-EI9y8uitoNzYeNzNoaEw8b462EgQO8sT4wNErSb7E3IJOX14GKbtJKFewh3lkelsI.jpg?size=532x425&quality=96&type=album)
 
 
 1.Как я понял из информации на оф. сайте GitHub, параграф - это разрыв строки  
