@@ -15,4 +15,4 @@
   Пример разделителя
   ***
   ![Альтернативный текст](https://gdb.voanews.com/3BE87ED1-0FB2-4AC7-8810-84C37D22E51D_w408_r1_s.jpg)
-  [пример ссылки](https://github.com/matremer/lab3at94/edit/main/)
+  [пример ссылки](https://github.com/matremer/lab3at94/blob/main/2f.md)
